@@ -10,7 +10,6 @@
 
 .u-visually-hidden {
   clip: rect(1px, 1px, 1px, 1px);
-  -webkit-clip-path: inset(50%);
   clip-path: inset(50%);
   height: 1px;
   margin: -1px;
@@ -152,7 +151,6 @@
 }
 
 .c-fe30 {
-  -webkit-animation: fe30-anime 0.5s cubic-bezier(0.215, 0.61, 0.355, 1) 4s forwards;
   animation: fe30-anime 0.5s cubic-bezier(0.215, 0.61, 0.355, 1) 4s forwards;
   bottom: 0;
   display: none;
